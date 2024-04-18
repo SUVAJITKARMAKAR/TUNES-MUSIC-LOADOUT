@@ -63,7 +63,6 @@ def login():
             return redirect(url_for('admin'))
         else:
             error_message = 'Invalid credentials. Please try again.'
-
     return render_template('login.html', error_message=error_message)
 
 # Admin page
