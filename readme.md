@@ -21,7 +21,7 @@
 Git clone this application and run  locally 
 
 ```bash
-  git clone 
+  git clone git@github.com:SUVAJITKARMAKAR/TUNES-MUSIC-LOADOUT.git
 ```
 
 ```bash
